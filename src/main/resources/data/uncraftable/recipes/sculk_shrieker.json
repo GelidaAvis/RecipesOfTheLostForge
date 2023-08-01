@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "? ?",
+    "#X#",
+    "#?#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sculk"
+    },
+    "X": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "?": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk_shrieker",
+    "count": 3
+  }
+}

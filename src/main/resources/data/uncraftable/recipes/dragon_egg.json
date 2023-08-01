@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "# $",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_pearl"
+    },
+    "?": {
+      "item": "minecraft:blaze_powder"
+    },
+    "$": {
+      "item": "minecraft:end_stone"
+    },
+    "A": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_egg"
+  }
+}

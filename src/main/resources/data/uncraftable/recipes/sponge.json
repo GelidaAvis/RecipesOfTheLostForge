@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:yellow_wool"
+  },
+  "result": "minecraft:sponge",
+  "experience": 0.0,
+  "cookingtime": 100
+}

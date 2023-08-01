@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ghast_tear"
+    },
+    "A": {
+      "item": "minecraft:fire_charge"
+    },
+    "?": {
+      "item": "minecraft:gunpowder"
+    },
+    "$": {
+      "item": "minecraft:lava_bucket"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_spawn_egg"
+  }
+}

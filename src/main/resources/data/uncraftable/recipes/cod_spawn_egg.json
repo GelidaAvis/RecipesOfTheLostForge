@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cod"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "?": {
+      "item": "minecraft:bone"
+    },
+    "$": {
+      "item": "minecraft:seagrass"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:cod_spawn_egg"
+  }
+}

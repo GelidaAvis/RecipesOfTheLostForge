@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X$X",
+    "C$C"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:sandstone"
+    },
+    "C": {
+      "item": "minecraft:sand"
+    },
+    "$": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  }
+}

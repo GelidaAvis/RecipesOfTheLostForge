@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "?": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "$": {
+      "tag": "minecraft:saplings"
+    },
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "uncraftable:mystical_egg"
+  }
+}

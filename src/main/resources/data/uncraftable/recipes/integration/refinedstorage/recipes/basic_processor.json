@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "refinedstorage:raw_basic_processor"
+  },
+  "result": "refinedstorage:basic_processor",
+  "experience": 0.5
+}

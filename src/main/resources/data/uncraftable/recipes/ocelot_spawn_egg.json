@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:bamboo"
+    },
+    "$": {
+      "item": "minecraft:emerald"
+    },
+    "#": {
+      "item": "minecraft:chicken"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ocelot_spawn_egg"
+  }
+}

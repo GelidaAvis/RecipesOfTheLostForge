@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "$": {
+      "item": "minecraft:gold_ingot"
+    },
+    "?": {
+      "item": "minecraft:fire_charge"
+    },
+    "A": {
+      "item": "minecraft:blaze_powder"
+    },
+    "X": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "uncraftable:malicious_egg"
+  }
+}

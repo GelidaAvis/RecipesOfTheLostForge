@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "?": {
+      "item": "minecraft:honeycomb"
+    },
+    "$": {
+      "item": "minecraft:lightning_rod"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:copper_golem_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "$": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "A": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "?": {
+      "item": "minecraft:wet_sponge"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:guardian_spawn_egg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AXA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:purpur_block"
+    },
+    "X": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecraft:shulker_shell"
+  }
+}

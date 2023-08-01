@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bow"
+    },
+    "A": {
+      "item": "minecraft:glass_bottle"
+    },
+    "?": {
+      "item": "minecraft:ender_pearl"
+    },
+    "$": {
+      "tag": "minecraft:arrows"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:illusioner_spawn_egg"
+  }
+}

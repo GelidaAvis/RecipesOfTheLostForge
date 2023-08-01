@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chicken"
+    },
+    "?": {
+      "item": "minecraft:feather"
+    },
+    "$": {
+      "item": "minecraft:egg"
+    },
+    "A": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:chicken_spawn_egg"
+  }
+}

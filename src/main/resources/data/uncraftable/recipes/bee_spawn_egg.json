@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "?XA",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:honeycomb"
+    },
+    "?": {
+      "item": "minecraft:feather"
+    },
+    "A": {
+      "tag": "minecraft:flowers"
+    },
+    "$": {
+      "item": "minecraft:honey_bottle"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:bee_spawn_egg"
+  }
+}

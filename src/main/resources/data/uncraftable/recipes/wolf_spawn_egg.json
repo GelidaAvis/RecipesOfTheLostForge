@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:bone"
+    },
+    "$": {
+      "item": "minecraft:mutton"
+    },
+    "#": {
+      "item": "minecraft:chicken"
+    },
+    "A": {
+      "item": "minecraft:name_tag"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:wolf_spawn_egg"
+  }
+}

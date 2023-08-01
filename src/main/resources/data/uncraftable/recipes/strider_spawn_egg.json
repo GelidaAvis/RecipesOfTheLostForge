@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "$": {
+      "item": "minecraft:saddle"
+    },
+    "?": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "item": "minecraft:saddle"
+    },
+    "A": {
+      "item": "minecraft:lava_bucket"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:strider_spawn_egg"
+  }
+}

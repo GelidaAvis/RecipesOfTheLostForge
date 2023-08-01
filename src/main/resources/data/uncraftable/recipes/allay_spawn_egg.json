@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "A": {
+      "item": "minecraft:jukebox"
+    },
+    "?": {
+      "item": "minecraft:chest"
+    },
+    "$": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:allay_spawn_egg"
+  }
+}

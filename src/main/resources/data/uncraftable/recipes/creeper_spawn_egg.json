@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tnt"
+    },
+    "?": {
+      "item": "minecraft:sand"
+    },
+    "$": {
+      "item": "minecraft:gravel"
+    },
+    "A": {
+      "item": "minecraft:gunpowder"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_spawn_egg"
+  }
+}

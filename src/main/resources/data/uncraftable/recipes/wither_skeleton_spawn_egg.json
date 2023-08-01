@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:bone"
+    },
+    "$": {
+      "item": "minecraft:stone_sword"
+    },
+    "#": {
+      "item": "minecraft:soul_sand"
+    },
+    "A": {
+      "item": "minecraft:coal"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_spawn_egg"
+  }
+}

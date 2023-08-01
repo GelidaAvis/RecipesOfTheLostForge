@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ice"
+    },
+    "A": {
+      "item": "minecraft:snowball"
+    },
+    "?": {
+      "item": "minecraft:redstone"
+    },
+    "$": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:iceologer_spawn_egg"
+  }
+}

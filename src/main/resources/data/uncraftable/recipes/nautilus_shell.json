@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A#A",
+    "#X#",
+    "A#A"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:fishes"
+    },
+    "A": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "X": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:nautilus_shell"
+  }
+}

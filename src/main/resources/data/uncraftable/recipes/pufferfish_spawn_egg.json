@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "$": {
+      "item": "minecraft:sea_pickle"
+    },
+    "?": {
+      "item": "minecraft:tropical_fish"
+    },
+    "A": {
+      "item": "minecraft:pufferfish"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:pufferfish_spawn_egg"
+  }
+}

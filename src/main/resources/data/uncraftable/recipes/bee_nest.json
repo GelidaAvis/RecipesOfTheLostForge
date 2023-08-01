@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "XCX",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:honeycomb_block"
+    },
+    "C": {
+      "item": "minecraft:honey_block"
+    },
+    "X": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "minecraft:bee_nest"
+  }
+}

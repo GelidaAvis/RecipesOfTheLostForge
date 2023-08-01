@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "minecraft:slime_ball"
+    },
+    "?": {
+      "item": "minecraft:mangrove_propagule"
+    },
+    "$": {
+      "item": "minecraft:lily_pad"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:frog_spawn_egg"
+  }
+}

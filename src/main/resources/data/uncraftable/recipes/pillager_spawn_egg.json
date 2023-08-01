@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:book"
+    },
+    "$": {
+      "item": "minecraft:arrow"
+    },
+    "#": {
+      "item": "minecraft:iron_sword"
+    },
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:pillager_spawn_egg"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "???",
+    "#X#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "?": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}

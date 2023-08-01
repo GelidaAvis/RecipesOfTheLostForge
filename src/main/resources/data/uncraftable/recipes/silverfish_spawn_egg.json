@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_bricks"
+    },
+    "?": {
+      "item": "minecraft:cod"
+    },
+    "$": {
+      "item": "minecraft:lava_bucket"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:silverfish_spawn_egg"
+  }
+}

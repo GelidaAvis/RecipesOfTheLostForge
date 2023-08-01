@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "$X#",
+    " ? "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:bone"
+    },
+    "$": {
+      "item": "minecraft:snow_block"
+    },
+    "#": {
+      "item": "minecraft:ice"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:stray_spawn_egg"
+  }
+}

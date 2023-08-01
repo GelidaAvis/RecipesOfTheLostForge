@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "A": {
+      "item": "minecraft:moss_block"
+    },
+    "?": {
+      "item": "minecraft:sand"
+    },
+    "$": {
+      "tag": "minecraft:saplings"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:sniffer_spawn_egg"
+  }
+}

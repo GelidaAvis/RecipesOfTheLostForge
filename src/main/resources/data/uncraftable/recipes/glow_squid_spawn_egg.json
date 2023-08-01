@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "#X?",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "?": {
+      "item": "minecraft:glow_berries"
+    },
+    "$": {
+      "item": "minecraft:ink_sac"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:glow_squid_spawn_egg"
+  }
+}

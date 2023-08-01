@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lead"
+    },
+    "A": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "?": {
+      "item": "minecraft:saddle"
+    },
+    "$": {
+      "item": "minecraft:emerald_block"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ravager_spawn_egg"
+  }
+}

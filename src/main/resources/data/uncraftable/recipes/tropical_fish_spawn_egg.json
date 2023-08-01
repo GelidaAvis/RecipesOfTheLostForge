@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:tropical_fish"
+    },
+    "$": {
+      "item": "minecraft:seagrass"
+    },
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:tropical_fish_spawn_egg"
+  }
+}

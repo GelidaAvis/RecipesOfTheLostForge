@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "$": {
+      "item": "minecraft:trident"
+    },
+    "?": {
+      "item": "minecraft:copper_ingot"
+    },
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:drowned_spawn_egg"
+  }
+}

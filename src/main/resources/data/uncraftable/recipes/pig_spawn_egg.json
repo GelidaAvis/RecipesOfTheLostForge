@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "$X?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:porkchop"
+    },
+    "A": {
+      "item": "minecraft:saddle"
+    },
+    "?": {
+      "item": "minecraft:carrot"
+    },
+    "$": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:pig_spawn_egg"
+  }
+}

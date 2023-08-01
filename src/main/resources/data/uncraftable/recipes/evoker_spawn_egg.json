@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "?": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "$": {
+      "item": "minecraft:dragon_head"
+    },
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:evoker_spawn_egg"
+  }
+}

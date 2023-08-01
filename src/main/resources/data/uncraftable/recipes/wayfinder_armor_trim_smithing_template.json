@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X$X",
+    "X$X"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:terracotta"
+    },
+    "$": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  }
+}

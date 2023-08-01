@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:magma_cream"
+    },
+    "?": {
+      "item": "minecraft:lava_bucket"
+    },
+    "$": {
+      "item": "minecraft:slime_ball"
+    },
+    "#": {
+      "item": "minecraft:magma_block"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_cube_spawn_egg"
+  }
+}

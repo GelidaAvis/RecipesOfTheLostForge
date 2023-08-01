@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "#X?",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "?": {
+      "item": "minecraft:beef"
+    },
+    "$": {
+      "item": "minecraft:milk_bucket"
+    },
+    "A": {
+      "item": "minecraft:wheat"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:cow_spawn_egg"
+  }
+}

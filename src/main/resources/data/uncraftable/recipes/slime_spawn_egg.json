@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:slime_block"
+    },
+    "$": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "minecraft:lily_pad"
+    },
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_spawn_egg"
+  }
+}

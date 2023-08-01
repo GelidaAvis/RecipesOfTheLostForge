@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "minecraft:moss_block"
+    },
+    "?": {
+      "tag": "minecraft:saplings"
+    },
+    "$": {
+      "item": "minecraft:glow_berries"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:glare_spawn_egg"
+  }
+}

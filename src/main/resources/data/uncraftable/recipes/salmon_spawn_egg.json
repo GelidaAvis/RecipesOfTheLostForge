@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:salmon"
+    },
+    "$": {
+      "item": "minecraft:bone"
+    },
+    "#": {
+      "item": "minecraft:seagrass"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:salmon_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "$X?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "A": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "$": {
+      "item": "minecraft:echo_shard"
+    },
+    "?": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:warden_spawn_egg"
+  }
+}

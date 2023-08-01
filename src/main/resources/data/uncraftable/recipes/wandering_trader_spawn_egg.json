@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:emerald"
+    },
+    "$": {
+      "item": "minecraft:book"
+    },
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:wandering_trader_spawn_egg"
+  }
+}

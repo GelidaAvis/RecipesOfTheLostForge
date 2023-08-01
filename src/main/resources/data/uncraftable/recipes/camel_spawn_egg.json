@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sand"
+    },
+    "A": {
+      "item": "minecraft:lead"
+    },
+    "?": {
+      "item": "minecraft:chest"
+    },
+    "$": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:camel_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chest"
+    },
+    "A": {
+      "item": "minecraft:saddle"
+    },
+    "?": {
+      "item": "minecraft:hay_block"
+    },
+    "$": {
+      "item": "minecraft:lead"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:donkey_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "A": {
+      "item": "minecraft:mangrove_propagule"
+    },
+    "?": {
+      "item": "minecraft:lily_pad"
+    },
+    "$": {
+      "item": "minecraft:cod"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:tadpole_spawn_egg"
+  }
+}

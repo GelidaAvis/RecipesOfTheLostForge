@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "AX?",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crafting_table"
+    },
+    "?": {
+      "item": "minecraft:leather"
+    },
+    "$": {
+      "item": "minecraft:lead"
+    },
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:mule_spawn_egg"
+  }
+}

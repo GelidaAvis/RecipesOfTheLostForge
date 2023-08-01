@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:white_wool"
+    },
+    "$": {
+      "item": "minecraft:mutton"
+    },
+    "A": {
+      "item": "minecraft:wheat"
+    },
+    "#": {
+      "item": "minecraft:grass_block"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:sheep_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "$X?",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "A": {
+      "item": "minecraft:spider_eye"
+    },
+    "$": {
+      "item": "minecraft:cobweb"
+    },
+    "?": {
+      "item": "minecraft:slime_ball"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:spider_spawn_egg"
+  }
+}

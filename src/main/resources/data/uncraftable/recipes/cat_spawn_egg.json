@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:emerald"
+    },
+    "A": {
+      "item": "minecraft:cod"
+    },
+    "$": {
+      "item": "minecraft:cod"
+    },
+    "?": {
+      "item": "minecraft:string"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:cat_spawn_egg"
+  }
+}

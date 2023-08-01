@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:golden_sword"
+    },
+    "$": {
+      "item": "minecraft:porkchop"
+    },
+    "#": {
+      "item": "minecraft:gold_nugget"
+    },
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:zombified_piglin_spawn_egg"
+  }
+}

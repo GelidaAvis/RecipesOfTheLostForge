@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "$": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "minecraft:soul_sand"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_spawn_egg"
+  }
+}

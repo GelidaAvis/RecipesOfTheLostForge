@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#?#",
+    "?A?"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sculk"
+    },
+    "A": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "?": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk_catalyst"
+  }
+}

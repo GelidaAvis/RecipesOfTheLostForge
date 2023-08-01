@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:carrot"
+    },
+    "?": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "$": {
+      "item": "minecraft:rabbit"
+    },
+    "A": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:rabbit_spawn_egg"
+  }
+}

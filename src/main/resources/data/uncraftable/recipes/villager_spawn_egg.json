@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#XA",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:emerald_block"
+    },
+    "A": {
+      "item": "minecraft:bread"
+    },
+    "$": {
+      "item": "minecraft:bell"
+    },
+    "#": {
+      "tag": "minecraft:beds"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg"
+  }
+}

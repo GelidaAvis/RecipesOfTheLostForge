@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    " X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bamboo"
+    },
+    "A": {
+      "item": "minecraft:lily_pad"
+    }
+  },
+  "result": {
+    "item": "minecraft:small_dripleaf",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lead"
+    },
+    "?": {
+      "item": "minecraft:chest"
+    },
+    "$": {
+      "item": "minecraft:emerald"
+    },
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:llama_spawn_egg"
+  }
+}

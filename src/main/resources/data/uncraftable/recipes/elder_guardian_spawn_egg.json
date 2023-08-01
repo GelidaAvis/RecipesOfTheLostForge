@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "$": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "minecraft:wet_sponge"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:elder_guardian_spawn_egg"
+  }
+}

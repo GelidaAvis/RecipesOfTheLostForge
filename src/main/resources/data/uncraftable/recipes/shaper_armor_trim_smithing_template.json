@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X$X",
+    "C$C"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:terracotta"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "$": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  }
+}

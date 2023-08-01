@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "$": {
+      "item": "minecraft:potato"
+    },
+    "#": {
+      "item": "minecraft:book"
+    },
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:zombie_villager_spawn_egg"
+  }
+}

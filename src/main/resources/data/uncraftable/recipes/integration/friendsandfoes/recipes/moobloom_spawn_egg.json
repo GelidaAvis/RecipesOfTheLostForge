@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:flowers"
+    },
+    "A": {
+      "tag": "minecraft:saplings"
+    },
+    "?": {
+      "item": "minecraft:honeycomb"
+    },
+    "$": {
+      "item": "minecraft:shears"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:moobloom_spawn_egg"
+  }
+}

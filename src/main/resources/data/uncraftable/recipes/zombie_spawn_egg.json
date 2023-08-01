@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "$": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "?": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "#": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:zombie_spawn_egg"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " LAK ",
+    "AZCZA",
+    "BCXCB",
+    "AZCZA",
+    " JAD "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:tinted_glass"
+    },
+    "L": {
+      "item": "minecraft:diamond_block"
+    },
+    "K": {
+      "item": "minecraft:emerald_block"
+    },
+    "J": {
+      "item": "minecraft:gold_block"
+    },
+    "D": {
+      "item": "minecraft:iron_block"
+    },
+    "Z": {
+      "item": "minecraft:barrel"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "create:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "create:creative_fluid_tank",
+    "count": 4
+  },
+  "acceptMirrored": false
+}

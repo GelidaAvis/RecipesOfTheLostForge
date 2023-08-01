@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X?",
+    " # "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone"
+    },
+    "?": {
+      "item": "minecraft:feather"
+    },
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:bat_spawn_egg"
+  }
+}

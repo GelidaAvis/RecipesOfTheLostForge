@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:stone"
+    },
+    "$": {
+      "item": "minecraft:snow_block"
+    },
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:goat_spawn_egg"
+  }
+}

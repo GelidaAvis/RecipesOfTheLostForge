@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "$X#",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:seagrass"
+    },
+    "A": {
+      "item": "minecraft:sand"
+    },
+    "$": {
+      "item": "minecraft:water_bucket"
+    },
+    "?": {
+      "item": "minecraft:scute"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:turtle_spawn_egg"
+  }
+}

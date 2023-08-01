@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XA",
+    "AX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:andesite"
+    },
+    "A": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:calcite",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobweb"
+    },
+    "A": {
+      "item": "minecraft:spider_eye"
+    },
+    "?": {
+      "item": "minecraft:pufferfish"
+    },
+    "$": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:cave_spider_spawn_egg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "result": "refinedstorage:silicon",
+  "experience": 0.5
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:saddle"
+    },
+    "?": {
+      "item": "minecraft:lead"
+    },
+    "$": {
+      "item": "minecraft:chest"
+    },
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:zombie_horse_spawn_egg"
+  }
+}

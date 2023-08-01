@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "#X$",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sweet_berries"
+    },
+    "?": {
+      "item": "minecraft:snowball"
+    },
+    "$": {
+      "item": "minecraft:feather"
+    },
+    "A": {
+      "item": "minecraft:spruce_sapling"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:fox_spawn_egg"
+  }
+}

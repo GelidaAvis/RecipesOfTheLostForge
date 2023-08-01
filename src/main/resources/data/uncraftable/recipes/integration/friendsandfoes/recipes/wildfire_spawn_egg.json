@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lava_bucket"
+    },
+    "A": {
+      "item": "minecraft:blaze_rod"
+    },
+    "?": {
+      "item": "minecraft:netherrack"
+    },
+    "$": {
+      "item": "minecraft:fire_charge"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:wildfire_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sand"
+    },
+    "A": {
+      "item": "minecraft:cactus"
+    },
+    "?": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:mauler_spawn_egg"
+  }
+}

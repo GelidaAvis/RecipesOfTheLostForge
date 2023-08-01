@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "$X#",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "?": {
+      "item": "minecraft:clock"
+    },
+    "$": {
+      "item": "minecraft:feather"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:phantom_spawn_egg"
+  }
+}

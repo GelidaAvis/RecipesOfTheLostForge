@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "$X$",
+    "$X$"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:deepslate"
+    },
+    "$": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  }
+}

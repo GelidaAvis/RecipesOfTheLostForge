@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX#",
+    " ? "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "?": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "#": {
+      "item": "minecraft:book"
+    },
+    "$": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:vindicator_spawn_egg"
+  }
+}

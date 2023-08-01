@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " LAK ",
+    "AZCZA",
+    "BCXCB",
+    "AZCZA",
+    " JAD "
+  ],
+  "key": {
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "L": {
+      "item": "minecraft:diamond_block"
+    },
+    "K": {
+      "item": "minecraft:emerald_block"
+    },
+    "J": {
+      "item": "minecraft:gold_block"
+    },
+    "D": {
+      "item": "minecraft:iron_block"
+    },
+    "Z": {
+      "item": "create:andesite_alloy"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "create:brass_ingot"
+    },
+    "B": {
+      "item": "create:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "create:creative_motor"
+  },
+  "acceptMirrored": false
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX#",
+    " $ "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "$": {
+      "item": "minecraft:lava_bucket"
+    },
+    "#": {
+      "item": "minecraft:bone_block"
+    },
+    "A": {
+      "item": "minecraft:porkchop"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:zoglin_spawn_egg"
+  }
+}

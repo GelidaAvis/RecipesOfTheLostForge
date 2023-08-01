@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "$": {
+      "item": "minecraft:tropical_fish"
+    },
+    "?": {
+      "item": "minecraft:gold_ingot"
+    },
+    "A": {
+      "item": "minecraft:kelp"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:dolphin_spawn_egg"
+  }
+}

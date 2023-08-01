@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "#X$",
+    " ? "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_shell"
+    },
+    "?": {
+      "item": "minecraft:ender_eye"
+    },
+    "$": {
+      "item": "minecraft:end_rod"
+    },
+    "A": {
+      "item": "minecraft:ender_chest"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:shulker_spawn_egg"
+  }
+}

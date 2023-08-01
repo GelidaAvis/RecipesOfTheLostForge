@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "?": {
+      "tag": "minecraft:pickaxes"
+    },
+    "$": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:tuff_golem_spawn_egg"
+  }
+}

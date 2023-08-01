@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AX#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snow_block"
+    },
+    "#": {
+      "item": "minecraft:cod"
+    },
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "A": {
+      "item": "minecraft:ice"
+    },
+    "X": {
+      "item": "uncraftable:malicious_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:polar_bear_spawn_egg"
+  }
+}

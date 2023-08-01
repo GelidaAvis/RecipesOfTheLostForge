@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "AX?",
+    " # "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "$": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "#": {
+      "item": "minecraft:jukebox"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:parrot_spawn_egg"
+  }
+}

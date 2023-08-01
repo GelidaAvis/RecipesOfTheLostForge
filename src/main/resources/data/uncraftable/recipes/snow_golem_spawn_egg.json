@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "?X$",
+    " # "
+  ],
+  "key": {
+    "$": {
+      "item": "minecraft:snow_block"
+    },
+    "?": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:snow_golem_spawn_egg"
+  }
+}

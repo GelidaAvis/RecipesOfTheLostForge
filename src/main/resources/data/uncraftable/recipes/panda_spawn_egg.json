@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "$X?",
+    " # "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bamboo"
+    },
+    "?": {
+      "item": "minecraft:grass_block"
+    },
+    "$": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "item": "minecraft:vine"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:panda_spawn_egg"
+  }
+}

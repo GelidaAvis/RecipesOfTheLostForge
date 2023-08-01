@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X$X",
+    "X$X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:prismarine"
+    },
+    "$": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:tide_armor_trim_smithing_template"
+  }
+}

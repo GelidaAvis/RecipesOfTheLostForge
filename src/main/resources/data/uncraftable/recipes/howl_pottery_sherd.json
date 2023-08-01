@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:brick"
+    },
+    "A": {
+      "item": "minecraft:howl_pottery_sherd"
+    }
+  },
+  "result": {
+    "item": "minecraft:howl_pottery_sherd",
+    "count": 2
+  }
+}

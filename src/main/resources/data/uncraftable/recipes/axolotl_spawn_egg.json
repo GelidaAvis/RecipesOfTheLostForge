@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ? ",
+    "AX$",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay"
+    },
+    "A": {
+      "item": "minecraft:moss_block"
+    },
+    "?": {
+      "item": "minecraft:water_bucket"
+    },
+    "$": {
+      "item": "minecraft:tropical_fish"
+    },
+    "X": {
+      "item": "uncraftable:mystical_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:axolotl_spawn_egg"
+  }
+}
