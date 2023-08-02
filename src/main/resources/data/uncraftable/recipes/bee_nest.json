@@ -7,13 +7,13 @@
   ],
   "key": {
     "A": {
-      "item": "minecraft:honeycomb_block"
+      "item": "minecraft:honeycomb"
     },
     "C": {
       "item": "minecraft:honey_block"
     },
     "X": {
-      "item": "minecraft:honeycomb"
+      "item": "minecraft:honeycomb_block"
     }
   },
   "result": {

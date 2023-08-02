@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B?B",
+    "?X?",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "B": {
+      "tag": "forge:glass"
+    },
+    "?": {
+      "item": "refinedstorage:4096k_fluid_storage_part"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:creative_fluid_storage_disk"
+  }
+}
