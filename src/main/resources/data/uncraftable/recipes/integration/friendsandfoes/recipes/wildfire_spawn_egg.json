@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "friendsandfoes"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " A ",
