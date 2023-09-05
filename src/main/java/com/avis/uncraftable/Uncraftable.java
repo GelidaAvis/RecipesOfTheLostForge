@@ -35,7 +35,7 @@ public class Uncraftable {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTab() == ModCreativeModeTabs.TUTORIAL_TAB.get()) {
+        if (event.getTab() == ModCreativeModeTabs.UNCRAFTABLE_TAB.get()) {
             event.accept(ModItems.MALICIOUS_EGG);
             event.accept(ModItems.MYSTICAL_EGG);
         }
